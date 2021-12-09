@@ -9,3 +9,14 @@
 @import "pages/faq";
 @import "pages/partners";
 @import "pages/contacts";
+
+
+.container {
+    width: 100%;
+}
+
+.container__row {
+    width: 90%;
+    margin: auto;
+    max-width: 1160px;
+}
